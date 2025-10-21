@@ -1,5 +1,6 @@
 # Saturday 15th (Home, Warsaw)
-Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
+### Train & Tube to Heathrow Terminal 5
+https://maps.app.goo.gl/koHQ2ckPeggismvd8
 
 12:20 Leave house
 
@@ -9,19 +10,18 @@ Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
 
 14:40 Waterloo train arrive
 
-
-
-Flight to Warsaw
-
+### Flight to Warsaw
 18:15 LHR London Heathrow
 
 21:45 WAW Warsaw Chopin
 
 
 
-Bus half way to hotel - https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
+### Bus half way to hotel
+https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
 
-Walk to hotel - https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
+### Walk to hotel
+https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
 
 
 
