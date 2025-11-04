@@ -1,6 +1,5 @@
 # Saturday 15th (Home, Warsaw)
-### Train & Tube to Heathrow Terminal 5
-https://maps.app.goo.gl/koHQ2ckPeggismvd8
+Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
 
 12:20 Leave house
 
@@ -10,19 +9,13 @@ https://maps.app.goo.gl/koHQ2ckPeggismvd8
 
 14:40 Waterloo train arrive
 
-### Flight to Warsaw
 18:15 LHR London Heathrow
 
 21:45 WAW Warsaw Chopin
 
+Bus half way to hotel - https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
 
-
-### Bus half way to hotel
-https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
-
-### Walk to hotel
-https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
-
+Walk to hotel - https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
 
 
 # Sunday 16th (Warsaw)
@@ -30,7 +23,7 @@ Tram to Museum - https://maps.app.goo.gl/dh3bieWMQQYPtmfu6
 
 Explore (TODO: add places)
 
-Dinner at U Wieniawy - https://maps.app.goo.gl/gpkqaaRK3YRpksny7
+18:30 Dinner at U Wieniawy - https://maps.app.goo.gl/gpkqaaRK3YRpksny7
 
 Walk to Hotel - https://maps.app.goo.gl/zshBKgKHpvxPg3kp8
 
@@ -56,7 +49,7 @@ Hotel - https://maps.app.goo.gl/mpn52dx23BVXUAzs6
 
 7:55 Train to Kaunas - https://maps.app.goo.gl/orFXbFHTXSwSGrQV8
 
-4:24 Arrive at Kaunas
+16:24 Arrive at Kaunas
 
 Explore (TODO: add places)
 
@@ -64,7 +57,7 @@ Travel to Hotel - https://maps.app.goo.gl/fdrWtt1GjjB6ijsk8
 
 Explore (TODO: add places)
 
-Dinner (TODO: book)
+18:30 Dinner at DIA - https://maps.app.goo.gl/1hVWAszWVUK6uDmf6
 
 
 
@@ -75,14 +68,16 @@ Dinner (TODO: book)
 
 10:30 Explore (TODO: add places)
 
+Possible food options: Mamma Kitchen, 49, Ponas Bulvė, Talutti (chain with different types)
+
 Travel to Hotel - https://maps.app.goo.gl/fdrWtt1GjjB6ijsk8
 
 
 
-# Thursday 20th (Kaunas, Vilnus)
+# Thursday 20th (Kaunas, Vilnius)
 7:45 Walk to Station - https://maps.app.goo.gl/7DemDjRVErjS8hrx7
 
-8:30 Travel to Vilnus - https://maps.app.goo.gl/er11oMNiGKgoAczk8
+8:30 Travel to Vilnius - https://maps.app.goo.gl/er11oMNiGKgoAczk8
 
 9:40 Walk to Climbing - https://maps.app.goo.gl/4sgf9ADxsQMHJ4m19
 
@@ -90,26 +85,30 @@ Travel to Hotel - https://maps.app.goo.gl/fdrWtt1GjjB6ijsk8
 
 11:30 Explore (TODO: add places)
 
-Travel to Hotel - https://maps.app.goo.gl/4XLxkvX4mXH5xxpD8
+Travel to Hotel - https://maps.app.goo.gl/UU8p8odmxxUptp91A
 
 Explore (TODO: add places)
 
-Dinner (TODO: book)
+18:00 Dinner at Gaspars - https://maps.app.goo.gl/5Vega47ViRv3SZBc6
+
+Travel to Hotel - https://maps.app.goo.gl/UU8p8odmxxUptp91A
 
 
 
-# Friday 21th (Vilnus)
+# Friday 21th (Vilnius)
 7:30 Walk to Climbing - https://maps.app.goo.gl/LMHRbrQWivkjpGqT6
 
 8:00 Climbing - https://27crags.com/crags/vilniaus-neries-krantines-laipiojimo-sienele
 
 9:00 Explore (TODO: add places)
 
+Possible food options: Cozy, The Urban Garden, City Chef Barbecue
+
 Travel to Hotel (TODO: book)
 
 
 
-# Saturday 22th (Vilnus, Riga)
+# Saturday 22th (Vilnius, Riga)
 6:10 Walk to Station - https://maps.app.goo.gl/LrsCkouxy3GW8Uqj8
 
 6:55 Train to Riga (TODO: book)
