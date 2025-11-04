@@ -104,22 +104,24 @@ Travel to Hotel - https://maps.app.goo.gl/UU8p8odmxxUptp91A
 
 Possible food options: Cozy, The Urban Garden, City Chef Barbecue
 
-Travel to Hotel (TODO: book)
+Travel to Hotel
 
 
 
 # Saturday 22th (Vilnius, Riga)
 6:10 Walk to Station - https://maps.app.goo.gl/LrsCkouxy3GW8Uqj8
 
-6:55 Train to Riga (TODO: book)
+6:45 Train to Riga
+
+11:15 Arrive at Riga
+
+Possible food options: Kozy
 
 Explore (TODO: add places)
 
-Travel to Hotel (TODO: book)
+Travel to Hotel
 
 Explore (TODO: add places)
-
-Dinner (TODO: book)
 
 
 
@@ -128,9 +130,13 @@ Dinner (TODO: book)
 
 8:00 Climbing (TODO: might need to book online) - https://r.vagonuwall.lv/en/shop/entry-fee
 
+10:30 Hire Bikes & buy food
+
+Bike ride - https://www.komoot.com/smarttour/34181923?ref=wdd
+
 Explore (TODO: add places)
 
-Travel to Hotel (TODO: book)
+Travel to Hotel
 
 
 
@@ -141,7 +147,9 @@ Travel to Hotel (TODO: book)
 
 Explore (TODO: add places)
 
-Travel to Hotel (TODO: book)
+18:30 Dinner at Zviedru vārti restaurant - https://maps.app.goo.gl/BpJFNCTnPSyXJZ4k7
+
+Travel to Hotel
 
 
 
