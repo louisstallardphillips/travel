@@ -119,7 +119,7 @@ Possible food options: Kozy
 
 Explore (TODO: add places)
 
-Travel to Hotel
+Travel to AirBnB - https://maps.app.goo.gl/EefXHK2YBqQrExxH8
 
 Explore (TODO: add places)
 
@@ -136,7 +136,7 @@ Bike ride - https://www.komoot.com/smarttour/34181923?ref=wdd
 
 Explore (TODO: add places)
 
-Travel to Hotel
+Travel to AirBnB - https://maps.app.goo.gl/EefXHK2YBqQrExxH8
 
 
 
@@ -153,7 +153,7 @@ Art Museum RIGA BOURSE - https://lnmm.gov.lv/en/art-museum-riga-bourse/visit/tic
 
 18:30 Dinner at Zviedru vārti restaurant - https://maps.app.goo.gl/BpJFNCTnPSyXJZ4k7
 
-Travel to Hotel
+Travel to AirBnB - https://maps.app.goo.gl/EefXHK2YBqQrExxH8
 
 
 
