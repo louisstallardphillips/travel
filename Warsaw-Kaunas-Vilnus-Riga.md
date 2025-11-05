@@ -85,6 +85,8 @@ Travel to Hotel - https://maps.app.goo.gl/fdrWtt1GjjB6ijsk8
 
 11:30 Explore (TODO: add places)
 
+Vingio Parkas https://maps.app.goo.gl/BG15szxoEnzB1Wej8
+
 Travel to Hotel - https://maps.app.goo.gl/UU8p8odmxxUptp91A
 
 Explore (TODO: add places)
