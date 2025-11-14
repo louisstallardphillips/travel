@@ -14,22 +14,28 @@ Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
 21:45 WAW Warsaw Chopin
 
 Bus half way to hotel - https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
+
 Bus tickets - https://jakdojade.pl/warszawa/Lotnisko%20Chopina-Przyloty/Komitetu%20Obrony%20Robotnik%C3%B3w
 
-Walk to shop - https://maps.app.goo.gl/zRoduFH7dBhbtM3N7
-Buy Water, breakfast & lunch at shop
+Walk to shop for water & toiletries - https://maps.app.goo.gl/zRoduFH7dBhbtM3N7
 
 Walk to hotel - https://maps.app.goo.gl/6VbJBGkJU27RJfdo9
 
+~11:30 Arrive at Hotel
+
 
 # Sunday 16th (Warsaw)
-Tram to Museum - https://maps.app.goo.gl/dh3bieWMQQYPtmfu6
+9:00 Leave Hotel
 
-Expore - https://travelonthedollar.com/2018/06/18/warsaw-walking-tour/
+9:05 Tram to Breakfast - https://maps.app.goo.gl/HUtaDxBjG9noufwp7
 
-Explore (TODO: add places)
+Walk to Museum - https://maps.app.goo.gl/Z1GKZMtD9NYkydb68
 
-16:30 Walk to Hotel - https://maps.app.goo.gl/VrmaDGUycFxsgTEJA
+Łazienki Park (TODO: add things to see/routes)
+
+Walk to Museum of Modern Art - https://maps.app.goo.gl/hVgvuUbvVFCUtV4XA
+
+16:30 Walk to Hotel - https://maps.app.goo.gl/BQoA4MsUZetdgzV96
 
 18:20 Walk to Restaurant - https://maps.app.goo.gl/3oBBJbkeaStdZVek7
 
@@ -40,20 +46,21 @@ Walk to Hotel - https://maps.app.goo.gl/zshBKgKHpvxPg3kp8
 
 
 # Monday 17th (Warsaw)
-Walk to Breakfast - https://maps.app.goo.gl/NceDBM591FREGLLz5
+Walking tour - https://travelonthedollar.com/2018/06/18/warsaw-walking-tour/
 
-Walk to Museum of Modern Art - https://maps.app.goo.gl/xfDYRXtD49dGJQBc7
+Palace (Pałac Kultury i Nauki) - https://maps.app.goo.gl/1jHokDJJcQgMc3z46
 
-Walk to Lunch at N31 - https://maps.app.goo.gl/hKE5k5iVqe7BobVYA
+Walk to Lunch at N31 - https://maps.app.goo.gl/NReie2zHJR6AZBCY9
 
-Walk to Climbing - https://maps.app.goo.gl/pVBGScq4pdZqBTt67
+Walk to Climbing - https://maps.app.goo.gl/s5u9PFGncYhFGzjb6
 
 Climbing - https://maps.app.goo.gl/6fpVGYhJUzjDFLgd8
 
 Walk to Shop - https://maps.app.goo.gl/j3aSUL6rpRsHEW4C8
+
 Buy food for dinner, breakfast & lunch
 
-Eat while walking to Hotel - https://maps.app.goo.gl/snK3Bh6MSgSPpmRx7
+Walk to Hotel - https://maps.app.goo.gl/GoDiodTPh1mDjMU46
 
 Explore (TODO: add places)
 
