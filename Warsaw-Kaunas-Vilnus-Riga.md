@@ -16,13 +16,22 @@ Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
 Bus half way to hotel - https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
 Bus tickets - https://jakdojade.pl/warszawa/Lotnisko%20Chopina-Przyloty/Komitetu%20Obrony%20Robotnik%C3%B3w
 
-Walk to hotel - https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
+Walk to shop - https://maps.app.goo.gl/zRoduFH7dBhbtM3N7
+Buy Water, breakfast & lunch at shop
+
+Walk to hotel - https://maps.app.goo.gl/6VbJBGkJU27RJfdo9
 
 
 # Sunday 16th (Warsaw)
 Tram to Museum - https://maps.app.goo.gl/dh3bieWMQQYPtmfu6
 
+Expore - https://travelonthedollar.com/2018/06/18/warsaw-walking-tour/
+
 Explore (TODO: add places)
+
+16:30 Walk to Hotel - https://maps.app.goo.gl/VrmaDGUycFxsgTEJA
+
+18:20 Walk to Restaurant - https://maps.app.goo.gl/3oBBJbkeaStdZVek7
 
 18:30 Dinner at U Wieniawy - https://maps.app.goo.gl/gpkqaaRK3YRpksny7
 
@@ -33,15 +42,22 @@ Walk to Hotel - https://maps.app.goo.gl/zshBKgKHpvxPg3kp8
 # Monday 17th (Warsaw)
 Walk to Breakfast - https://maps.app.goo.gl/NceDBM591FREGLLz5
 
-Explore (TODO: add places)
-
-Climbing - https://maps.app.goo.gl/6fpVGYhJUzjDFLgd8
+Walk to Museum of Modern Art - https://maps.app.goo.gl/xfDYRXtD49dGJQBc7
 
 Walk to Lunch at N31 - https://maps.app.goo.gl/hKE5k5iVqe7BobVYA
 
+Walk to Climbing - https://maps.app.goo.gl/pVBGScq4pdZqBTt67
+
+Climbing - https://maps.app.goo.gl/6fpVGYhJUzjDFLgd8
+
+Walk to Shop - https://maps.app.goo.gl/j3aSUL6rpRsHEW4C8
+Buy food for dinner, breakfast & lunch
+
+Eat while walking to Hotel - https://maps.app.goo.gl/snK3Bh6MSgSPpmRx7
+
 Explore (TODO: add places)
 
-Hotel - https://maps.app.goo.gl/mpn52dx23BVXUAzs6
+Walk to Hotel - https://maps.app.goo.gl/zshBKgKHpvxPg3kp8
 
 
 
@@ -122,6 +138,10 @@ Possible food options: Kozy
 
 Explore (TODO: add places)
 
+National History Museum of Latvia - https://www.dabasmuzejs.gov.lv/en/visit
+
+Art Museum RIGA BOURSE - https://lnmm.gov.lv/en/art-museum-riga-bourse/visit/tickets
+
 Travel to AirBnB - https://maps.app.goo.gl/EefXHK2YBqQrExxH8
 
 Explore (TODO: add places)
@@ -148,11 +168,7 @@ Travel to AirBnB - https://maps.app.goo.gl/EefXHK2YBqQrExxH8
 
 10:00 Climbing - https://maps.app.goo.gl/nDgHJw7bjEwtthx29
 
-Explore (TODO: add places)
-
-National History Museum of Latvia - https://www.dabasmuzejs.gov.lv/en/visit
-
-Art Museum RIGA BOURSE - https://lnmm.gov.lv/en/art-museum-riga-bourse/visit/tickets
+Explore - https://www.nomadepicureans.com/europe/latvia/free-riga-walking-tour-self-guided/
 
 18:30 Dinner at Zviedru vārti restaurant - https://maps.app.goo.gl/BpJFNCTnPSyXJZ4k7
 
