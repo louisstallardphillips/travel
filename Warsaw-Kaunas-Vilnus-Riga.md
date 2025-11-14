@@ -14,6 +14,7 @@ Train & Tube to Heathrow Terminal 5 - https://maps.app.goo.gl/koHQ2ckPeggismvd8
 21:45 WAW Warsaw Chopin
 
 Bus half way to hotel - https://maps.app.goo.gl/7jJzGRCMbKgtVSZe6
+Bus tickets - https://jakdojade.pl/warszawa/Lotnisko%20Chopina-Przyloty/Komitetu%20Obrony%20Robotnik%C3%B3w
 
 Walk to hotel - https://maps.app.goo.gl/2skcK4U9HJ7dqvsH8
 
