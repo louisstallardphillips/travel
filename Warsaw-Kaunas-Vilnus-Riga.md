@@ -29,7 +29,9 @@ Walk to hotel - https://maps.app.goo.gl/6VbJBGkJU27RJfdo9
 
 9:05 Tram to Breakfast - https://maps.app.goo.gl/HUtaDxBjG9noufwp7
 
-Walk to Museum - https://maps.app.goo.gl/Z1GKZMtD9NYkydb68
+Walk to shop for lunch/snacks (be quick) - https://maps.app.goo.gl/AbBzZbyR7bhnkvhFA
+
+Walk to Museum - https://maps.app.goo.gl/muYnjpZdBuZszgHt7
 
 Walk to and around Łazienki Park (Royal Baths Park) - https://www.google.com/maps/d/u/0/edit?mid=1g0vUK2b5TqLyFSXrLEXhqytuIJ6qlq4&usp=sharing
 
