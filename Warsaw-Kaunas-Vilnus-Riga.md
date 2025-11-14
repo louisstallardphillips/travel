@@ -31,9 +31,27 @@ Walk to hotel - https://maps.app.goo.gl/6VbJBGkJU27RJfdo9
 
 Walk to Museum - https://maps.app.goo.gl/Z1GKZMtD9NYkydb68
 
-Łazienki Park (TODO: add things to see/routes)
+Walk to and around Łazienki Park (Royal Baths Park) - https://www.google.com/maps/d/u/0/edit?mid=1g0vUK2b5TqLyFSXrLEXhqytuIJ6qlq4&usp=sharing
 
-Walk to Museum of Modern Art - https://maps.app.goo.gl/hVgvuUbvVFCUtV4XA
+[The Royal Theatre & Old Orangery](www.lazienki-krolewskie.pl/en/architektura/teatr-krolewski-i-stara-oranzeria)
+
+[Chopin Monument](https://www.lazienki-krolewskie.pl/en/pomniki/pomnik-fryderyka-chopina)
+
+[The Belvedere Palace](https://www.inyourpocket.com/warsaw/belvedere-palace_68362v)
+
+[The Temple of the Sybil](https://www.lazienki-krolewskie.pl/en/architektura/pawilony/swiatynia-sybilli)
+
+[Monument to Cyprian Kamil Norwid](https://www.lazienki-krolewskie.pl/en/pomniki/pomnik-cypriana-kamila-norwida)
+
+[The White Pavilion](https://www.lazienki-krolewskie.pl/en/architektura/bialy-dom)
+
+[Amphitheatre](https://www.lazienki-krolewskie.pl/en/architektura/amfiteatr)
+
+[Pałac Na Wyspie](https://www.lazienki-krolewskie.pl/en/architektura/palac-na-wyspie)
+
+[Palac Myslewicki](https://www.lazienki-krolewskie.pl/en/architektura/palac-myslewicki)
+
+Walk to Museum of Modern Art (through Ujazdów Park) - https://maps.app.goo.gl/YiWGFhD9jhGSmoL8A
 
 16:30 Walk to Hotel - https://maps.app.goo.gl/BQoA4MsUZetdgzV96
 
@@ -46,6 +64,10 @@ Walk to Hotel - https://maps.app.goo.gl/zshBKgKHpvxPg3kp8
 
 
 # Monday 17th (Warsaw)
+Walking tour to Museum of Warsaw - https://www.google.com/maps/d/u/0/edit?mid=1MDf_Ka6m8ZBGvtnBBTdS_CS5SjrnM6E&usp=sharing
+
+Walking tour to Uni Library - https://www.google.com/maps/d/u/0/edit?mid=1EJZU-9tQNQmj45Phy4aN8BqOEiLHK3U&usp=sharing
+
 Walking tour - https://travelonthedollar.com/2018/06/18/warsaw-walking-tour/
 
 Palace (Pałac Kultury i Nauki) - https://maps.app.goo.gl/1jHokDJJcQgMc3z46
